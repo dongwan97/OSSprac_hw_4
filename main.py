@@ -1,6 +1,6 @@
 name = input("이름을 입력해주세요: ")
 id=input("학번을 입력해주세요: ")
-major=input("학과을 입력해주세요: ")
+major=input("학과를 입력해주세요: ")
 grade=input("학년을 입력해주세요: ")
 univ=input("학교를 입력해주세요: ")
 
